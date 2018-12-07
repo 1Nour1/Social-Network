@@ -1,0 +1,43 @@
+body{
+/*    background-color: #022e4e;*/
+    font-family: Serif;
+    font-size: 1.8em;
+}
+.box-reg{
+    background: white;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 0;
+
+}
+.my-button{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10px;
+    font-weight: bold;
+    
+}
+.button-div{
+    margin-bottom: 10px;
+    
+}
+.my-title{
+    font-size: 2em;
+    font-weight: bold;
+    background-color: #428bca;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 0;
+    width: 100%;
+}
+.my_form{
+ padding: auto;  
+}
+#my-search{
+    width: 400px;
+}
+#post-pic{
+    max-height: 300px;
+    max-width: 400px;
+}
