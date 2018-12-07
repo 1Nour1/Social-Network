@@ -1,6 +1,5 @@
 # Social-Network
-Social Network similar to Facebook
-a social networking web based application that involves the use of the internet to connect users with their friends, family 
+A social networking web based application that involves the use of the internet to connect users with their friends, family 
 and acquaintances. Social media websites are not necessarily about meeting new people online, although this does happen.
 Instead, they are primarily about connecting with friends, family and acquaintances you already have in real life. 
 The most well-known social media sites are Facebook, Twitter and Google+.
